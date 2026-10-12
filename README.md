@@ -52,9 +52,13 @@ C:\Users\사용자이름\AppData\Roaming\에뮬레이터 이름\load\01005880134
 이곳에 압축을 풀어서 나온 romfs폴더를 넣으면 됩니다.
 
 \01005880134C2000
+
 └─ romfs\
+
    └─ Data\
+   
       └─ StreamingAssets\
+	  
          └─ lang_font_en, lang_gametext_battle_en, lang_gametext_resident_en, resident_font
 		 
 이렇게 들어가 있으면 된겁니다.
