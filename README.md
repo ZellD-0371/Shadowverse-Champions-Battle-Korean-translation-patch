@@ -1,6 +1,8 @@
 # 섀도우버스 챔피언즈 배틀 한국어 패치
 
-현재 버전: v1.0.0
+현재 버전: v1.0.1
+
+업데이트 내역: https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/blob/main/CHANGELOG.md
 
 최신 버전 다운로드: https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/releases/latest
 
