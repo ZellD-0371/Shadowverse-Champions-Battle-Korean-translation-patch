@@ -8,6 +8,16 @@
 
 섀도우버스 챔피언즈 배틀의 게임 내 텍스트를 한국어로 즐길 수 있도록 제작한 비공식 한국어 패치입니다.
 
+<img width="1916" height="1079" alt="Image" src="https://github.com/user-attachments/assets/67b998f8-c49e-49cf-a6f8-04014d2c74b5" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ae227611-d493-4276-a2a0-49651365ccba" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c8210869-48f8-4e35-a181-e73cc7c3948c" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bc38f6-7237-4d01-8b56-fcd1a898eaaf" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/432416dc-22af-4915-8d33-112764c423f7" />
+
 이 패치는 게임의 원본 파일을 직접 수정하지 않고, 지원되는 모드 적용 환경에서 수정된 파일을 불러오는 방식으로 동작합니다.
 
 [준비 사항]
