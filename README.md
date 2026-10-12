@@ -1,6 +1,7 @@
 # 섀도우버스 챔피언즈 배틀 한국어 패치
 
 현재 버전: v1.0.0
+
 최신 버전 다운로드: https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/releases/latest
 
 ## 소개
@@ -24,7 +25,9 @@
 닌텐도 스위치 커펌 or 에뮬레이터
 
 Build ID : 01005880134C2000
+
 Title ID : C8A3A29B0BBEAE47
+
 Version : 1.3.0
 
 > [!WARNING]
@@ -40,8 +43,10 @@ Version : 1.3.0
 
 ZIP 파일의 압축을 풉니다.
 
-에뮬레이터에서 모드 폴더 열기 혹은 
+에뮬레이터에서 모드 폴더 열기 혹은
+
 C:\Users\사용자이름\AppData\Roaming\에뮬레이터 이름\load\01005880134C2000
+
 이곳으로 들어가주세요 01005880134C2000폴더가 없다면 생성하시면 됩니다.
 
 이곳에 압축을 풀어서 나온 romfs폴더를 넣으면 됩니다.
