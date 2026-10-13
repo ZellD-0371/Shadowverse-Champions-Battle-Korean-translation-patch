@@ -41,7 +41,7 @@ Version : 1.3.0
 
 에뮬레이터 기준으로 설명합니다.
 
-위의 다운로드 링크에서 최신 버전의 Shadowverse-KR-Patch-v1.0.0.zip을 다운로드합니다.
+위의 다운로드 링크에서 최신 버전의 Shadowverse-KR-Patch-vX.X.X.zip을 다운로드합니다.
 
 ZIP 파일의 압축을 풉니다.
 
