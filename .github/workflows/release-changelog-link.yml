@@ -23,14 +23,6 @@ jobs:
             const { data: repository } =
               await github.rest.repos.get({ owner, repo });
 
-            let release = context.payload.release;
-
-            if (!release) {
-              const result =
-                await github.rest.repos.getLatestRelease({ owner, repo });
-              release = result.data;
-            }
-
             const changelogUrl =
               `${repository.html_url}/blob/${repository.default_branch}/CHANGELOG.md`;
 
@@ -38,9 +30,22 @@ jobs:
               `## 변경 내역\n\n` +
               `[CHANGELOG.md](${changelogUrl})`;
 
-            await github.rest.repos.updateRelease({
-              owner,
-              repo,
-              release_id: release.id,
-              body
-            });
+            let releases;
+
+            if (context.eventName === 'workflow_dispatch') {
+              releases = await github.paginate(
+                github.rest.repos.listReleases,
+                { owner, repo, per_page: 100 }
+              );
+            } else {
+              releases = [context.payload.release];
+            }
+
+            for (const release of releases) {
+              await github.rest.repos.updateRelease({
+                owner,
+                repo,
+                release_id: release.id,
+                body
+              });
+            }
