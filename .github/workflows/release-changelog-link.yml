@@ -29,7 +29,7 @@ jobs:
             const body =
               `## 변경 내역\n\n` +
               `[CHANGELOG.md](${changelogUrl})\n\n` + 
-              `# 선택 사항\n\n` + 
+              `### 선택 사항\n\n` + 
               `60fps 치트 코드`;
 
             let releases;
