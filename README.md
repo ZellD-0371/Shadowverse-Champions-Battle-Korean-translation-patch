@@ -2,9 +2,9 @@
 
 현재 버전: v1.0.2
 
-업데이트 내역: https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/blob/main/CHANGELOG.md
+[업데이트 내역](https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/blob/main/CHANGELOG.md)
 
-최신 버전 다운로드: https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/releases/latest
+[최신 버전 다운로드](https://github.com/ZellD-0371/Shadowverse-Champions-Battle-Korean-translation-patch/releases/latest)
 
 ## 소개
 
